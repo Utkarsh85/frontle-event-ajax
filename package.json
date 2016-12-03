@@ -1,0 +1,16 @@
+{
+  "name": "frontle-event-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontle",
+    "event",
+    "ajax"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT"
+}
